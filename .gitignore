@@ -1,0 +1,21 @@
+build/
+obj/
+*.o
+Debug*/
+Release*/
+*.mode*
+*.app/
+*.pyc
+.svn/
+
+#OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+bin/development.log
+.idea
+bin/data/avUgen/bak/
+mspAVUgen.log
